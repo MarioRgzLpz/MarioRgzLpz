@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on DGIIM
+- 🔭 I’m currently working on DGIIM / Prowler
 - 🌱 I’m currently learning cybersecurity
 - 👯 I’m looking to collaborate on cybersecurity, web desing and videogames
 - 🤔 I’m looking for help with cybersecurity
-- 💬 Ask me about web design
+- 💬 Ask me about cloud security
 - 📫 How to reach me: mariorgzlpz1809@gmail.com
 - 🌐 [Personal Portfolio](https://mariorgzlpz.github.io)
 <p align="center"> 
