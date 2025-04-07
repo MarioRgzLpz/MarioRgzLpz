@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on DGIIM / Prowler
+- 🔭 I’m currently working on DGIIM
 - 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on cybersecurity, web desing and videogames
+- 👯 I’m looking to collaborate on cybersecurity, and videogames
 - 🤔 I’m looking for help with cybersecurity
 - 💬 Ask me about cloud security
 - 📫 How to reach me: mariorgzlpz1809@gmail.com
