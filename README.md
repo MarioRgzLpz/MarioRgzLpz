@@ -1,8 +1,7 @@
-- 🔭 I’m currently working on DGIIM
-- 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on cybersecurity, and videogames
-- 🤔 I’m looking for help with cybersecurity
-- 💬 Ask me about cloud security
+- 🌱 I’m currently learning electronics
+- 👯 I’m looking to collaborate on anything challenging and fun!
+- 🤔 I’m looking for help with FPGAs
+- 💬 Ask me about cryptography
 - 📫 How to reach me: mariorgzlpz1809@gmail.com
 - 🌐 [Personal Portfolio](https://mariorgzlpz.github.io)
 <p align="center"> 
